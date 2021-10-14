@@ -11,6 +11,7 @@ Instalación en consola:
     <li>composer install</li>
     <li>npm install</li>
     <li>npm run dev</li>
+    <li>php artisan migrate</li>
     <li>php artisan serve</li>
 </ul>
 Si todo salio bien, ingresar a la ruta mostrada en la consola, por lo regular: http://127.0.0.1:8000/
